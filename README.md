@@ -1,5 +1,4 @@
-# ulfius-web-upload
-
+# IoT - Upload files with libulfius
 
 A simple modification of 'example_programs/sheep_counter.c' of libulfius.
 
@@ -20,3 +19,12 @@ https://github.com/babelouest/ulfius/releases/download/v2.3.1/libulfius-dev_2.3.
 # ldconfig -v
 
 ```
+
+Compiling with:
+
+```
+# make
+```
+
+
+
